@@ -2,7 +2,7 @@
   "name": "apps3105",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://ildarVakDev.github.io/IldarVakarinDev418565/",
+  "homepage": "https://ildarvakdev.github.io/appTest/",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
