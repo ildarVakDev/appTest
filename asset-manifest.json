@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/IldarVakarinDev418565/static/css/main.981f7211.chunk.css",
+    "main.js": "/IldarVakarinDev418565/static/js/main.942907f3.chunk.js",
+    "main.js.map": "/IldarVakarinDev418565/static/js/main.942907f3.chunk.js.map",
+    "runtime-main.js": "/IldarVakarinDev418565/static/js/runtime-main.a96734aa.js",
+    "runtime-main.js.map": "/IldarVakarinDev418565/static/js/runtime-main.a96734aa.js.map",
+    "static/css/2.86df01db.chunk.css": "/IldarVakarinDev418565/static/css/2.86df01db.chunk.css",
+    "static/js/2.59e418d5.chunk.js": "/IldarVakarinDev418565/static/js/2.59e418d5.chunk.js",
+    "static/js/2.59e418d5.chunk.js.map": "/IldarVakarinDev418565/static/js/2.59e418d5.chunk.js.map",
+    "index.html": "/IldarVakarinDev418565/index.html",
+    "precache-manifest.591850a83cdefd30eeb3f4036f06ff01.js": "/IldarVakarinDev418565/precache-manifest.591850a83cdefd30eeb3f4036f06ff01.js",
+    "service-worker.js": "/IldarVakarinDev418565/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/IldarVakarinDev418565/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/IldarVakarinDev418565/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.59e418d5.chunk.js.LICENSE.txt": "/IldarVakarinDev418565/static/js/2.59e418d5.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/IldarVakarinDev418565/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a96734aa.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.59e418d5.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.942907f3.chunk.js"
+  ]
+}
